@@ -1,8 +1,3 @@
-# React + Vite
+# Smart AI Chat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Smart AI Chat is an innovative project designed to showcase the capabilities of a conversational AI interface. Inspired by advanced AI models, this project aims to provide an engaging and intelligent chat experience. It's a unique implementation that highlights the potential of AI in creating meaningful interactions.
